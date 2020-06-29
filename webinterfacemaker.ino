@@ -25,8 +25,8 @@
 AsyncWebServer server(80);
 
 // REPLACE WITH YOUR NETWORK CREDENTIALS
-const char* ssid = "papenbgn";
-const char* password = "woKmeGgdze732";
+const char* ssid = "XXXwebinterface";
+const char* password = "YYY";
 
 const char* PARAM_STRING = "inputString";
 const char* COCKTAILNAME = "cocktailname";
